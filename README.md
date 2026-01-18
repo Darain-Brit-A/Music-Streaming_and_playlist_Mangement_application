@@ -5,6 +5,11 @@ A modern, feature-rich music streaming and playlist management application built
 ![Angular](https://img.shields.io/badge/Angular-21.1.0-red?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.2-blue?style=flat-square&logo=typescript)
 
+## 🌐 Live Demo
+
+**Access the deployed application:** [Vercel](https://music-streaming-and-playlist-mangem.vercel.app/)
+
+
 ## ✨ Features
 
 ### 🎧 Core Functionality
