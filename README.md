@@ -207,6 +207,6 @@ Contributions are welcome! If you'd like to contribute to this project:
 - Github: [Nihitha](https://github.com/Nihitha47)
 - GitHub: [Darain](https://github.com/Darain-Brit-A)
 - GitHub: [Praveen](https://github.com/2326praveen)
-- GitHub: [Anush]()
+- GitHub: [Anush](https://github.com/anushjowin)
 
 
