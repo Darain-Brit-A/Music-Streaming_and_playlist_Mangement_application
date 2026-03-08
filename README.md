@@ -7,7 +7,7 @@ A modern, feature-rich music streaming and playlist management application built
 
 ## 🌐 Live Demo
 
-**Access the deployed application:** [Vercel](https://music-streaming-and-playlist-mangem.vercel.app/)
+**Access the deployed application:** [Vercel](https://music-streaming-and-playlist-mangem-woad.vercel.app/)
 
 For a detailed report click on : [report](Project 14 report.pdf)
 
