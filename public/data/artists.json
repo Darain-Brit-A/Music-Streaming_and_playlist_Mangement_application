@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Stellar Drift",
+    "bio": "Stellar Drift is an ambient electronic duo from Reykjavik, Iceland, known for their expansive soundscapes that blend glacial synths with field recordings from outer-world environments. Their music has been described as 'sonic astronomy' – inviting listeners on a meditative journey through imaginary galaxies.",
+    "imageUrl": "https://picsum.photos/seed/stellardrift/400/400",
+    "genres": ["Ambient", "Electronic"],
+    "followers": 1240000,
+    "topTrackIds": [1, 2, 3, 4, 5]
+  },
+  {
+    "id": 2,
+    "name": "The Miles Collective",
+    "bio": "The Miles Collective is a modern jazz ensemble formed in New Orleans in 2015. Featuring seven virtuoso musicians, they fuse traditional jazz harmonics with contemporary rhythms and electronic elements to create something entirely their own. They have performed at major jazz festivals across three continents.",
+    "imageUrl": "https://picsum.photos/seed/milescollective/400/400",
+    "genres": ["Jazz"],
+    "followers": 890000,
+    "topTrackIds": [6, 7, 8]
+  },
+  {
+    "id": 3,
+    "name": "Vienna Strings",
+    "bio": "Vienna Strings is a premier classical ensemble dedicated to reimagining beloved orchestral masterpieces and creating original compositions for modern audiences. Based in Vienna, Austria, they combine centuries of classical tradition with innovative arrangement techniques that breathe fresh life into timeless music.",
+    "imageUrl": "https://picsum.photos/seed/viennastrings/400/400",
+    "genres": ["Classical"],
+    "followers": 2100000,
+    "topTrackIds": [9, 10, 11]
+  },
+  {
+    "id": 4,
+    "name": "Neon Pulse",
+    "bio": "Neon Pulse is an electronic music producer and live performer hailing from Tokyo, Japan. With an obsessive attention to sound design and a love for retrofuturism, Neon Pulse creates electronic music that sounds like the future bleeding into the past. His live shows — a spectacular fusion of light and sound — are legendary.",
+    "imageUrl": "https://picsum.photos/seed/neonpulse/400/400",
+    "genres": ["Electronic", "Synth"],
+    "followers": 3500000,
+    "topTrackIds": [12, 13, 14, 18]
+  },
+  {
+    "id": 5,
+    "name": "River Soul",
+    "bio": "River Soul is a singer-songwriter from Nashville, Tennessee, whose music flows effortlessly between acoustic folk and mainstream pop. Her honest lyrics, warm vocals, and sophisticated guitar work have earned her a devoted following who see her songs as the soundtrack to life's most intimate moments.",
+    "imageUrl": "https://picsum.photos/seed/riversoul/400/400",
+    "genres": ["Acoustic", "Pop"],
+    "followers": 5700000,
+    "topTrackIds": [15, 16, 17]
+  },
+  {
+    "id": 6,
+    "name": "Iron Echo",
+    "bio": "Iron Echo is a hard rock band from Chicago, Illinois, celebrated for their thunderous riffs, explosive live performances, and anthemic choruses. Since forming in 2010, they have released five studio albums, all of which debuted in the top 20 on the Billboard rock chart. Their 2022 album 'Raw Power' cemented their status as one of rock's premier acts.",
+    "imageUrl": "https://picsum.photos/seed/ironecho/400/400",
+    "genres": ["Rock"],
+    "followers": 4200000,
+    "topTrackIds": [18, 19, 20]
+  }
+]

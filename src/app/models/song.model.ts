@@ -4,14 +4,29 @@ export enum SongStatus {
   Stopped = 'STOPPED'
 }
 
+export enum Genre {
+  Ambient = 'Ambient',
+  Electronic = 'Electronic',
+  Classical = 'Classical',
+  Jazz = 'Jazz',
+  Pop = 'Pop',
+  Rock = 'Rock',
+  Acoustic = 'Acoustic'
+}
+
 export interface Song {
   id: number;
   title: string;
   duration: number;
   artistId: number;
+  artistName: string;
   albumId: number;
+  albumTitle: string;
+  genre: Genre;
   isFavorite: boolean;
   url: string;
+  coverUrl: string;
+  releaseYear: number;
 }
 
 export class SongModel implements Song {
@@ -20,9 +35,14 @@ export class SongModel implements Song {
     public title: string,
     public duration: number,
     public artistId: number,
+    public artistName: string,
     public albumId: number,
+    public albumTitle: string,
+    public genre: Genre,
     public isFavorite: boolean = false,
-    public url: string = ''
+    public url: string = '',
+    public coverUrl: string = '',
+    public releaseYear: number = new Date().getFullYear()
   ) {}
 
   toggleFavorite(): void {
@@ -35,3 +55,5 @@ export class SongModel implements Song {
     return `${minutes}:${seconds.toString().padStart(2, '0')}`;
   }
 }
+
+export const ALL_GENRES: Genre[] = Object.values(Genre);

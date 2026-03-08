@@ -4,6 +4,7 @@ export interface Playlist {
   description: string;
   songIds: number[];
   createdAt: Date;
+  coverUrl?: string;
 }
 
 export class PlaylistModel implements Playlist {
@@ -12,7 +13,8 @@ export class PlaylistModel implements Playlist {
     public name: string,
     public description: string,
     public songIds: number[] = [],
-    public createdAt: Date = new Date()
+    public createdAt: Date = new Date(),
+    public coverUrl: string = ''
   ) {}
 
   addSong(songId: number): void {

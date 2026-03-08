@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1, "title": "Stardust Reverie", "duration": 342, "artistId": 1, "artistName": "Stellar Drift",
+    "albumId": 1, "albumTitle": "Cosmic Drift", "genre": "Ambient", "isFavorite": true,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "coverUrl": "https://picsum.photos/seed/cosmicdrift/300/300", "releaseYear": 2022
+  },
+  {
+    "id": 2, "title": "Nebula Walk", "duration": 285, "artistId": 1, "artistName": "Stellar Drift",
+    "albumId": 1, "albumTitle": "Cosmic Drift", "genre": "Ambient", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverUrl": "https://picsum.photos/seed/cosmicdrift/300/300", "releaseYear": 2022
+  },
+  {
+    "id": 3, "title": "Solar Wind", "duration": 398, "artistId": 1, "artistName": "Stellar Drift",
+    "albumId": 1, "albumTitle": "Cosmic Drift", "genre": "Electronic", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "coverUrl": "https://picsum.photos/seed/cosmicdrift/300/300", "releaseYear": 2022
+  },
+  {
+    "id": 4, "title": "Aurora Borealis", "duration": 415, "artistId": 1, "artistName": "Stellar Drift",
+    "albumId": 2, "albumTitle": "Aurora", "genre": "Ambient", "isFavorite": true,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "coverUrl": "https://picsum.photos/seed/aurora2023/300/300", "releaseYear": 2023
+  },
+  {
+    "id": 5, "title": "Cosmic Pulse", "duration": 310, "artistId": 1, "artistName": "Stellar Drift",
+    "albumId": 2, "albumTitle": "Aurora", "genre": "Electronic", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "coverUrl": "https://picsum.photos/seed/aurora2023/300/300", "releaseYear": 2023
+  },
+  {
+    "id": 6, "title": "Blue Hour", "duration": 263, "artistId": 2, "artistName": "The Miles Collective",
+    "albumId": 3, "albumTitle": "Midnight Session", "genre": "Jazz", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "coverUrl": "https://picsum.photos/seed/midnightsess/300/300", "releaseYear": 2022
+  },
+  {
+    "id": 7, "title": "Midnight Cool", "duration": 311, "artistId": 2, "artistName": "The Miles Collective",
+    "albumId": 3, "albumTitle": "Midnight Session", "genre": "Jazz", "isFavorite": true,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "coverUrl": "https://picsum.photos/seed/midnightsess/300/300", "releaseYear": 2022
+  },
+  {
+    "id": 8, "title": "Smooth Ride", "duration": 244, "artistId": 2, "artistName": "The Miles Collective",
+    "albumId": 3, "albumTitle": "Midnight Session", "genre": "Jazz", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "coverUrl": "https://picsum.photos/seed/midnightsess/300/300", "releaseYear": 2022
+  },
+  {
+    "id": 9, "title": "Moonlight Sonata (Reimagined)", "duration": 480, "artistId": 3, "artistName": "Vienna Strings",
+    "albumId": 4, "albumTitle": "Timeless", "genre": "Classical", "isFavorite": true,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "coverUrl": "https://picsum.photos/seed/timeless21/300/300", "releaseYear": 2021
+  },
+  {
+    "id": 10, "title": "Spring Waltz", "duration": 352, "artistId": 3, "artistName": "Vienna Strings",
+    "albumId": 4, "albumTitle": "Timeless", "genre": "Classical", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "coverUrl": "https://picsum.photos/seed/timeless21/300/300", "releaseYear": 2021
+  },
+  {
+    "id": 11, "title": "Evening Serenade", "duration": 427, "artistId": 3, "artistName": "Vienna Strings",
+    "albumId": 4, "albumTitle": "Timeless", "genre": "Classical", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+    "coverUrl": "https://picsum.photos/seed/timeless21/300/300", "releaseYear": 2021
+  },
+  {
+    "id": 12, "title": "Digital Love", "duration": 289, "artistId": 4, "artistName": "Neon Pulse",
+    "albumId": 5, "albumTitle": "Digital Dreams", "genre": "Electronic", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+    "coverUrl": "https://picsum.photos/seed/digitaldream/300/300", "releaseYear": 2023
+  },
+  {
+    "id": 13, "title": "Circuit Breaker", "duration": 335, "artistId": 4, "artistName": "Neon Pulse",
+    "albumId": 5, "albumTitle": "Digital Dreams", "genre": "Electronic", "isFavorite": true,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+    "coverUrl": "https://picsum.photos/seed/digitaldream/300/300", "releaseYear": 2023
+  },
+  {
+    "id": 14, "title": "Analog Memory", "duration": 298, "artistId": 4, "artistName": "Neon Pulse",
+    "albumId": 8, "albumTitle": "Synth City", "genre": "Electronic", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+    "coverUrl": "https://picsum.photos/seed/synthcity21/300/300", "releaseYear": 2021
+  },
+  {
+    "id": 15, "title": "Golden Hour", "duration": 214, "artistId": 5, "artistName": "River Soul",
+    "albumId": 6, "albumTitle": "Heartstrings", "genre": "Acoustic", "isFavorite": true,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+    "coverUrl": "https://picsum.photos/seed/heartstrings/300/300", "releaseYear": 2023
+  },
+  {
+    "id": 16, "title": "River's Edge", "duration": 256, "artistId": 5, "artistName": "River Soul",
+    "albumId": 6, "albumTitle": "Heartstrings", "genre": "Acoustic", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+    "coverUrl": "https://picsum.photos/seed/heartstrings/300/300", "releaseYear": 2023
+  },
+  {
+    "id": 17, "title": "Fireflies", "duration": 198, "artistId": 5, "artistName": "River Soul",
+    "albumId": 6, "albumTitle": "Heartstrings", "genre": "Pop", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-17.mp3",
+    "coverUrl": "https://picsum.photos/seed/heartstrings/300/300", "releaseYear": 2023
+  },
+  {
+    "id": 18, "title": "Thunderous", "duration": 273, "artistId": 6, "artistName": "Iron Echo",
+    "albumId": 7, "albumTitle": "Raw Power", "genre": "Rock", "isFavorite": true,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "coverUrl": "https://picsum.photos/seed/rawpower22/300/300", "releaseYear": 2022
+  },
+  {
+    "id": 19, "title": "Steel Heart", "duration": 318, "artistId": 6, "artistName": "Iron Echo",
+    "albumId": 7, "albumTitle": "Raw Power", "genre": "Rock", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverUrl": "https://picsum.photos/seed/rawpower22/300/300", "releaseYear": 2022
+  },
+  {
+    "id": 20, "title": "Last Stand", "duration": 362, "artistId": 6, "artistName": "Iron Echo",
+    "albumId": 7, "albumTitle": "Raw Power", "genre": "Rock", "isFavorite": false,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "coverUrl": "https://picsum.photos/seed/rawpower22/300/300", "releaseYear": 2022
+  }
+]
